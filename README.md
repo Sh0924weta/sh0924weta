@@ -4,7 +4,8 @@
 - 🎓 AI Student | 7th Semester  
 - 🌍 Exploring Jharkhand | Web Developer  
 - 💻 Passionate about AI, Full-Stack Development & Open Source  
-- 📫 Reach me at:  | [Your LinkedIn]  
+- 📫 Reach me at:  | [Your https://www.linkedin.com/in/shweta-mishra-006185312?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+- [shwetamis996@gmail.com]
 
 🔧 **Tech Stack:**  
 - **Languages:** Python, JavaScript, C++  
