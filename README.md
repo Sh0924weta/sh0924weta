@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there! 👋  
+### I'm Shweta Mishra
+🚀 **About Me:**  
+- 🎓 AI Student | 7th Semester  
+- 🌍 Exploring Jharkhand | Web Developer  
+- 💻 Passionate about AI, Full-Stack Development & Open Source  
+- 📫 Reach me at:  | [Your LinkedIn]  
 
+🔧 **Tech Stack:**  
+- **Languages:** Python, JavaScript, C++  
+- **Frontend:** HTML, CSS, Tailwind, React  
+- **Backend:** Node.js, Express.js, MongoDB  
+- **AI/ML:** TensorFlow, PyTorch, OpenCV  
 
-**Sh0924weta/sh0924weta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **GitHub Stats:**  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
 
-Here are some ideas to get you started:
+🌟 **Featured Projects:**  
+1. [Explore Jharkhand](https://github.com/your-github/explore-jharkhand) 🌍  
+2. [AI Chatbot](https://github.com/your-github/ai-chatbot) 🤖  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
+💡 **Fun Fact:** I love debugging more than coding! 😄  
